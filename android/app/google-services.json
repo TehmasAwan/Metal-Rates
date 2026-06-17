@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "701921020521",
+    "firebase_url": "https://metalrates-faa76-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "metalrates-faa76",
+    "storage_bucket": "metalrates-faa76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701921020521:android:0fc70f66187af61c3f30f8",
+        "android_client_info": {
+          "package_name": "com.example.metalrates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXt51unTn2NfYfTDvv-Ikr29z8ESd43E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
